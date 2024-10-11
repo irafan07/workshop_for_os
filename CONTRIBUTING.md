@@ -9,8 +9,8 @@ Thank you for considering contributing to the Student Cards Project! We apprecia
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/student-cards.git
-   cd student-cards
+   git clone https://github.com/piyush-mahajan/workshop_for_os.git
+   cd workshop_for_os
    ```
 
 3. **Create a New Branch**:
@@ -25,7 +25,7 @@ Thank you for considering contributing to the Student Cards Project! We apprecia
 
 5. **Commit Your Changes**:
    ```bash
-   git add index.html
+   git add .
    git commit -m "Added my card"
    ```
 
